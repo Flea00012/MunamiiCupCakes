@@ -1,0 +1,9 @@
+.grid-cupCakes {
+
+    display: grid;
+    grid-template-rows: auto auto auto auto auto auto auto auto;
+    padding: 5px;
+    grid-auto-rows: minmax(auto, auto);
+    text-align: center;
+    padding-bottom: 30px;
+}
